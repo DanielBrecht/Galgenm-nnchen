@@ -13,7 +13,6 @@ from tkinter import Tk, Canvas, Frame, Label,\
 
 #Ganz unten Liste elements (sonst Elemente in Liste nicht defined)
 
-#rdbtn_mode --> sh. unten (~Z.604 | ~796/~804)
 current_language = 'deutsch'
 text_storage = []
 zähler = 0
